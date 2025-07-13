@@ -1,0 +1,57 @@
+/* Styles for footer container */
+.footercontainer {
+background-color: #0D1B2A;
+color: #333;
+padding-top:3em;
+position: relative;
+bottom:0;
+height: 165px;
+width:100%;
+
+}
+
+.h3{
+    color: aliceblue;
+}
+.copyright{
+    color:#CDC5B4;
+}
+.p1{
+    color:#CDC5B4;
+    text-decoration: none;
+}
+.cop
+.p1:hover{
+    text-decoration: underline;
+}
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.row {
+    display: flex;
+    justify-content:space-evenly;
+    flex-wrap: wrap; 
+}
+.companydetails {
+    flex: 1 1 40%; 
+    margin-right: 5px; 
+}
+
+
+.gethelp {
+    flex: 1 1 40%; 
+    margin-right: 20px; 
+}
+.followus {
+    flex: 1 1 20%; 
+}
+.list-items {
+    list-style: none;
+    padding: 0;
+}
+.img {
+    width: 30px; 
+    height: 30px;
+    margin-right: 10px; /* Add spacing between icons */
+}

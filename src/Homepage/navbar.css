@@ -1,0 +1,55 @@
+.button{
+  margin: 0;
+  background-color :#CFDBD5;
+  border: 2px solid black;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  height: 90px;
+  margin-left: 15px;
+  max-width: 1200px;
+  height: 55px;
+  display: flex;
+  align-items: center;
+  justify-content:space-evenly;
+  padding: 5px;
+}
+.logo{
+  width: 150px;
+  height: 55px;
+  background-color: white;
+  border-radius: 25px;
+}
+ul{
+  flex: 1;
+  list-style: none;
+  text-align: center;
+}
+ul li{
+  display: inline-block;
+  margin: 25px;
+  font-size: 1.3em;
+  font-weight: bold;
+  font-family:'Gill Sans';
+  color: rgb(34, 11, 11);
+  cursor: pointer;
+  margin-right: 70px;
+}
+/* .Search{
+  display: flex;
+  align-items: center;
+  background: #242424;
+  border: 0;
+  padding : 10px 20px;
+  border-radius: 50px;
+}
+.Search input{
+  padding: 6px;
+  background: transparent;
+  border: 0;
+  outline: 0;
+  color:black;
+  font-size: 16px;
+  cursor: pointer;
+  max-width: 200px;
+
+} */

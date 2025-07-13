@@ -1,0 +1,18 @@
+.Bmiinfo{
+    font-family: 'Times New Roman';
+    font-size: 1.5em;
+    color: #E2EB98; 
+    cursor: pointer;
+}
+.Bmipara{
+    font-family:'Cambria';
+    font-size: 16px;
+    color: #E2EB98; 
+    font-weight: lighter;
+    cursor: pointer;
+    margin-bottom: 5px;
+}
+.ol1 li{
+    text-align: left;
+    font-size: 16px;
+}

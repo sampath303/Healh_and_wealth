@@ -1,0 +1,77 @@
+.diet-page{
+    margin: 15px;
+}
+
+
+.bmi-main-container{
+    display: flex;
+    gap: 100px;
+}
+
+.bmi-calculator{
+    
+    height: 400px;
+    width: 40%;
+    border: 1px solid black;
+    border-radius: 10px;
+    display: flex;
+    background:#BFD7B5;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    gap:13px;
+    
+}
+
+.bmi-calculator input{
+    width: 300px;
+    height: 30px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px black;
+    background: transparent;
+}
+.bmi-calculator label{
+    font-size: 1.3em;
+    margin-right: 10px;
+    color: black;
+    font-weight:900;
+}
+.bmi-calculator input::placeholder{
+    font-size: 1.2em;
+    color: black;
+}
+
+.bmi-p{
+    color:black;
+    font-size: 1.3em;
+}
+
+.bmi-calculator h2{
+    font-family: 'Times New Roman';
+    font-size: 1.4em;
+    color: black;
+}
+.Submit-btn-bmi{
+    font-size: 18px;
+    padding: 8px;
+    border-radius: 15px;
+    background-color:#11001C;
+    cursor: pointer;
+    color: white;
+}
+.Submit-btn-bmi:hover{
+    background-color: #343235;
+}
+.info{
+    background-color:#0D1B2A;
+    border-radius: 10px;
+    padding: 5px;
+    max-width: 590px;
+    display: inline-block;
+    text-align: center;
+
+}
+#null-p{
+    font-size: 1.3em;
+    color: #E2EB98; 
+}

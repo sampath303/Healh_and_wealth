@@ -1,0 +1,30 @@
+.card3{
+    background-color:#CDC5B4;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    max-width: 580px;
+    display: inline-block;
+    text-align: center;
+    
+      
+}
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50px;
+}
+.card3h3{
+    font-family: 'Times New Roman';
+    font-size: 1.5em;
+    color: black;
+    cursor: pointer;
+}
+  
+.card3p3{
+    font-family:'Cambria';
+    font-size: 1em;
+    font-weight: bold;
+    color: black;
+    cursor: pointer;
+}

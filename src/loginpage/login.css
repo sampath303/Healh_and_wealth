@@ -1,0 +1,74 @@
+
+.main-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+
+.form-container{
+    border: 2px solid black;
+    box-shadow: 5px 5px 6px black;
+    padding: 45px;
+    background-color: #21D4FD;
+    background-image: linear-gradient(19deg, #21D4FD 0%, #B721FF 100%);
+    border-radius: 20px;
+    margin-left: auto;
+}
+.form-container h1{
+    text-align: center;
+    font-size: 2.5em;
+    font-family: 'Times New Roman';
+    color: white;
+}
+.detail-box{
+    margin-bottom: 14px;    
+}
+.detail-box input{
+    width: 300px;
+    height: 30px;
+    border-radius: 10px;
+    padding: 4px;
+    box-shadow: 5px 5px 5px;
+}
+.detail-box ::placeholder{
+    font-family: 'Times New Roman';
+    font-size: 1.3em;
+}
+.forgot-pass{
+    display: flex;
+    justify-content: space-between;
+}
+.forgot-pass label{
+    font-size: 1.2em;
+    font-family: 'Times New Roman';
+    cursor: pointer;
+}
+.forgot-pass a{
+    font-size: 1.2em;
+    color:#B0D7FF;
+    cursor: pointer;
+}
+.submitbtn{
+    margin-top: 16px;
+    text-align: center;
+}
+.submitbtn button{
+    font-size: 1.3em;
+    padding: 5px;
+    border-radius: 12px;
+    box-shadow: 2px 2px 4px;
+    width: 350px;
+    background-color:#034078;
+    color: white;
+    cursor: pointer;
+    font-family: 'Times New Roman';
+}
+.submitbtn button:hover{
+    background-color: #0A1128;
+}
+.register p{
+    text-align: center;
+    font-size: 1.2em;
+}

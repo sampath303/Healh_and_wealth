@@ -1,0 +1,44 @@
+.Healthy-container{
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    max-width: 100%;
+    display: inline-block;
+  
+}
+.Healthy-h2{
+    font-size: 1.5em;
+    color: #E2EB98; 
+    cursor: pointer;
+    text-align: center;
+    font-family:'Cambria';
+}
+.Healthy-p{
+    text-align: left;
+    color: #E2EB98; 
+    font-size: 1.15em;
+    font-weight: lighter;
+    font-family: 'Times New Roman';
+}
+.ol2{
+    font-family: 'Times New Roman';
+    font-size: 1.15em;
+    color: #E2EB98; 
+}
+#p1{
+    font-size: 1.3em;
+    font-family: 'cambria';
+    font-weight: 400;
+    color: #E2EB98;
+}
+.healthy-dl{
+    font-size: 1.2em;
+    color: #E2EB98; 
+    font-family: 'Times New Roman';
+}
+#p2{
+    font-size: 1.15em;
+    font-family: 'cambria';
+    font-weight: 500;
+    color: #E2EB98;
+}

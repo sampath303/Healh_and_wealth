@@ -1,0 +1,39 @@
+.container-2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.imageback-back {
+    width: 100%;
+    height: 620px;
+    z-index: -1;
+    position: relative; 
+    border-radius: 20px;
+
+  }
+  .text-overlay-second {
+    position: absolute;
+    top: 70%; 
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color:#E2EB98; 
+    font-size: 26px; 
+    text-align: center; 
+    width: 700px;
+    margin-bottom: 5px;
+  }
+.text-overlay-second h3{
+    font-size: 26px;
+    color:#E2EB98;
+}
+.text-overlay-second p{
+    font-size: 19px;
+    color:#001d5b;
+    font-weight:900;
+    font-family: 'Times New Roman';
+}
+pre{
+    font-family: 'Times New Roman';
+    color:#ECF39E;
+}
